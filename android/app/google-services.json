@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605207820696",
+    "project_id": "democraticunity-14fd9",
+    "storage_bucket": "democraticunity-14fd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605207820696:android:58bdf8055cc0c320e853ed",
+        "android_client_info": {
+          "package_name": "com.example.democratic_unity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605207820696-69vo2vbigri3q2dl25d8ess4sre9ucgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.democratic_unity",
+            "certificate_hash": "a62862b875d41f8210ff91e53c80ea400d4f6725"
+          }
+        },
+        {
+          "client_id": "605207820696-p4ju9bhc5ms6iitbhnr1naurlmj7g052.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHyoPE7tJpNwQ3f3GSvYY_cqPpngA_x4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605207820696-p4ju9bhc5ms6iitbhnr1naurlmj7g052.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>605207820696-f74ndk7f2ej41hk0g49rr563svutaev8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.605207820696-f74ndk7f2ej41hk0g49rr563svutaev8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>605207820696-69vo2vbigri3q2dl25d8ess4sre9ucgp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCR8YWjoeS_xWuq-dBgCm2ioaSicW9SryU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>605207820696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutter.democraticUnity</string>
+	<key>PROJECT_ID</key>
+	<string>democraticunity-14fd9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>democraticunity-14fd9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:605207820696:ios:d3541d1948e8c80ee853ed</string>
+</dict>
+</plist>
